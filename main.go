@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-
 	database.Init()
 	controller.Api()
 }
